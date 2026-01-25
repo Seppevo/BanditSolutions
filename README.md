@@ -30,7 +30,20 @@ Each directory or file in this repository corresponds to a level transition (e.g
 | Level | Status | Solution Link |
 | :--- | :---: | :--- |
 | Level 1 | ✅ | [Go to Solution](./Level01) |
-| Level 2 | ⏳ | [Go to Solution](./Level02) |
+| Level 2 | ✅ | [Go to Solution](./Level02) |
+| Level 3 | ✅ | [Go to Solution](./Level03) |
+| Level 4 | ✅ | [Go to Solution](./Level04) |
+| Level 5 | ⏳ | [Go to Solution](./Level05) |
+| Level 6 | ⏳ | [Go to Solution](./Level06) |
+| Level 7 | ⏳ | [Go to Solution](./Level07) |
+| Level 8 | ⏳ | [Go to Solution](./Level08) |
+| Level 9 | ⏳ | [Go to Solution](./Level09) |
+| Level 10 | ⏳ | [Go to Solution](./Level10) |
+| Level 11 | ⏳ | [Go to Solution](./Level11) |
+| Level 12 | ⏳ | [Go to Solution](./Level12) |
+| Level 13 | ⏳ | [Go to Solution](./Level13) |
+| Level 14 | ⏳ | [Go to Solution](./Level14) |
+
 
 ## 🛠️ Tools Used
 * **SSH**: To connect to the Bandit servers.
