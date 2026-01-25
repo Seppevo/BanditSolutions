@@ -13,29 +13,24 @@ This repository documents my journey through the levels, serving as both a perso
 > This repository contains **full solutions and passwords** for the Bandit levels. If you are currently playing the game yourself, I highly recommend trying to solve the challenges on your own first!
 
 ---
+
+## 🕵️‍♂️ About Bandit
+The Bandit wargame is aimed at absolute beginners. It teaches the basics needed to be able to play other wargames. The game is organized in levels, where you need to find the password for the next level by using various Linux commands.
+
+**Official Link:** [OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
+
+## 📂 Repository Structure
+Each directory or file in this repository corresponds to a level transition (e.g., `Level 0 -> 1`). Inside, you will find:
+* **The Password:** The flag found in the previous level.
+* **The Solution:** The commands and thought process used to solve the challenge.
+* **Scripts:** Any Python/Bash scripts written to automate tasks.
+
 ## 🚀 Progress Tracker
 
 | Level | Status | Solution Link |
 | :--- | :---: | :--- |
 | Level 1 | ✅ | [Go to Solution](./Level01) |
 | Level 2 | ⏳ | [Go to Solution](./Level02) |
-| Level 3 | ⏳ | [Go to Solution](./Level03) |
-| Level 4 | ⏳ | [Go to Solution](./Level04) |
-| Level 5 | ⏳ | [Go to Solution](./Level05) |
-| Level 6 | ⏳ | [Go to Solution](./Level06) |
-| Level 7 | ⏳ | [Go to Solution](./Level07) |
-| Level 8 | ⏳ | [Go to Solution](./Level08) |
-| Level 9 | ⏳ | [Go to Solution](./Level09) |
-| Level 10 | ⏳ | [Go to Solution](./Level10) |
-| Level 11 | ⏳ | [Go to Solution](./Level11) |
-| Level 12 | ⏳ | [Go to Solution](./Level12) |
-| Level 13 | ⏳ | [Go to Solution](./Level13) |
-| Level 14 | ⏳ | [Go to Solution](./Level14) |
-
-## 📂 Repository Structure
-Each directory or file in this repository corresponds to a level transition (e.g., `Level 0 -> 1`). Inside, you will find:
-* **The Password:** The flag found in the previous level.
-* **The Solution:** The commands and thought process used to solve the challenge.
 
 ## 🛠️ Tools Used
 * **SSH**: To connect to the Bandit servers.
