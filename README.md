@@ -2,7 +2,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)      ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)     ![Security](https://img.shields.io/badge/Security-Bandit-red?style=for-the-badge)
 
-Welcome to my collection of write-ups, scripts, and passwords for the **Bandit** wargame from [OverTheWire](https://overthewire.org/wargames/bandit/).
+Welcome to my collection of write-ups and passwords for the **Bandit** wargame from [OverTheWire](https://overthewire.org/wargames/bandit/).
 
 This repository documents my journey through the levels, serving as both a personal knowledge base and a portfolio of my command-line skills.
 
@@ -17,37 +17,38 @@ This repository documents my journey through the levels, serving as both a perso
 
 | Level | Status | Solution Link |
 | :--- | :---: | :--- |
-| Level 1 | ✅ | [Go to Solution](./Level0-Level1) |
-| Level 2 | ✅ | [Go to Solution](./Level1-Level2) |
-| Level 3 | ✅ | [Go to Solution](./Level2-Level3) |
-| Level 4 | ✅ | [Go to Solution](./Level3-Level4) |
-| Level 5 | ✅ | [Go to Solution](./Level4-Level5) |
-| Level 6 | ✅ | [Go to Solution](./Level5-Level6) |
-| Level 7 | ✅| [Go to Solution](./Level6-Level7) |
-| Level 8 | ✅| [Go to Solution](./Level7-Level8) |
-| Level 9 | ✅| [Go to Solution](./Level8-Level9) |
-| Level 10 | ✅ | [Go to Solution](./Level9-Level10) |
+| Level 1 | ✅ | [Go to Solution](./Level00-Level01) |
+| Level 2 | ✅ | [Go to Solution](./Level01-Level02) |
+| Level 3 | ✅ | [Go to Solution](./Level02-Level03) |
+| Level 4 | ✅ | [Go to Solution](./Level03-Level04) |
+| Level 5 | ✅ | [Go to Solution](./Level04-Level05) |
+| Level 6 | ✅ | [Go to Solution](./Level05-Level06) |
+| Level 7 | ✅| [Go to Solution](./Level06-Level07) |
+| Level 8 | ✅| [Go to Solution](./Level07-Level08) |
+| Level 9 | ✅| [Go to Solution](./Level08-Level09) |
+| Level 10 | ✅ | [Go to Solution](./Level09-Level10) |
 | Level 11 | ✅ | [Go to Solution](./Level10-Level11) |
 | Level 12 | ✅ | [Go to Solution](./Level11-Level12) |
-| Level 13 | ⏳ | [Go to Solution](./Level13) |
-| Level 14 | ⏳ | [Go to Solution](./Level14) |
-| Level 15 | ⏳ | [Go to Solution](./Level13) |
-| Level 16 | ⏳ | [Go to Solution](./Level14) |
-| Level 17 | ⏳ | [Go to Solution](./Level13) |
-| Level 18 | ⏳ | [Go to Solution](./Level14) |
-| Level 19 | ⏳ | [Go to Solution](./Level13) |
-| Level 20 | ⏳ | [Go to Solution](./Level14) |
-| Level 21 | ⏳ | [Go to Solution](./Level13) |
-| Level 23 | ⏳ | [Go to Solution](./Level14) |
-| Level 24 | ⏳ | [Go to Solution](./Level13) |
-| Level 25 | ⏳ | [Go to Solution](./Level14) |
-| Level 26 | ⏳ | [Go to Solution](./Level14) |
-| Level 27 | ⏳ | [Go to Solution](./Level14) |
-| Level 28 | ⏳ | [Go to Solution](./Level14) |
-| Level 29 | ⏳ | [Go to Solution](./Level14) |
-| Level 30 | ⏳ | [Go to Solution](./Level14) |
-| Level 31 | ⏳ | [Go to Solution](./Level14) |
-| Level 32 | ⏳ | [Go to Solution](./Level14) |
+| Level 13 | ⏳ | [Go to Solution](./Level12-Level13) |
+| Level 14 | ⏳ | [Go to Solution](./Level13-Level14) |
+| Level 15 | ⏳ | [Go to Solution](./Level14-Level15) |
+| Level 16 | ⏳ | [Go to Solution](./Level15-Level16) |
+| Level 17 | ⏳ | [Go to Solution](./Level16-Level17) |
+| Level 18 | ⏳ | [Go to Solution](./Level17-Level18) |
+| Level 19 | ⏳ | [Go to Solution](./Level18-Level19) |
+| Level 20 | ⏳ | [Go to Solution](./Level19-Level20) |
+| Level 21 | ⏳ | [Go to Solution](./Level20-Level21) |
+| Level 22 | ⏳ | [Go to Solution](./Level21-Level22) |
+| Level 23 | ⏳ | [Go to Solution](./Level22-Level23) |
+| Level 24 | ⏳ | [Go to Solution](./Level23-Level24) |
+| Level 25 | ⏳ | [Go to Solution](./Level24-Level25) |
+| Level 26 | ⏳ | [Go to Solution](./Level25-Level26) |
+| Level 27 | ⏳ | [Go to Solution](./Level26-Level27) |
+| Level 28 | ⏳ | [Go to Solution](./Level27-Level28) |
+| Level 29 | ⏳ | [Go to Solution](./Level28-Level29) |
+| Level 30 | ⏳ | [Go to Solution](./Level29-Level30) |
+| Level 31 | ⏳ | [Go to Solution](./Level30-Level31) |
+| Level 32 | ⏳ | [Go to Solution](./Level31-Level32) |
 
 
 
